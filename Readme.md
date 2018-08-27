@@ -4,3 +4,6 @@
 change staged file
 
 add another text.
+긴급수정 추가
+긴급수정 추가 대신 커밋정리
+add forgotton
