@@ -2,3 +2,5 @@
 커밋만 하고 푸시 안한 내용  
 다른 디렉토리에서 수정
 change staged file
+
+add another text.
